@@ -5,3 +5,5 @@ console.log( "Hello class! This is a git demo!" )
 
 
 // I'm all done!!!
+
+// New comment to cause merge conflict
